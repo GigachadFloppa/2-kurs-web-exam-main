@@ -1,0 +1,23 @@
+[
+  {
+    "name": "abou",
+    "path": "/abou",
+    "component": "C:\\\\Users\\\\Дмитрий\\\\Desktop\\\\2-kurs-web-exam-main\\\\pages\\\\abou.vue",
+    "chunkName": "pages/abou",
+    "_name": "_7ca2ad74"
+  },
+  {
+    "name": "animals",
+    "path": "/animals",
+    "component": "C:\\\\Users\\\\Дмитрий\\\\Desktop\\\\2-kurs-web-exam-main\\\\pages\\\\animals.vue",
+    "chunkName": "pages/animals",
+    "_name": "_2a5e2c5a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Дмитрий\\\\Desktop\\\\2-kurs-web-exam-main\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3b249475"
+  }
+]
